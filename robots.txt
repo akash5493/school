@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /sitemap.xml
+Sitemap: http://www.fpsnawada.com/sitemap.xml
+Disallow: /images/
+Disallow: /images
+Disallow: /single.html
+
+
+User-agent: Googlebot 
+Disallow: /single.html

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://www.fpsnawada.com/</loc>
+    <changefreq>always</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>http://www.fpsnawada.com/online.html</loc>
+    <changefreq>always</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>http://www.fpsnawada.com/about.html</loc>
+    <changefreq>always</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>http://www.fpsnawada.com/contact.html</loc>
+    <changefreq>always</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.fpsnawada.com/info.html</loc>
+    <changefreq>always</changefreq>
+    <priority>0.90</priority>
+  </url>
+</urlset>
+<!--<guid value="0bba1caf-18a0-4ec1-9a05-a60f005616be" />-->
